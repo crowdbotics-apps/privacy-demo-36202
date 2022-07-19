@@ -1237,7 +1237,10 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/photo-library@file:./screens/photo-library/":
+"@screens/payment-subscription@file:./screens/payment-subscription/":
+  version "1.0.0"
+
+"@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
