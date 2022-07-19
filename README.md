@@ -66,7 +66,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-payment-split](screens/payment-split-screen)
 - [screen-order-summary](screens/order-summary)
 - [screen-order-complete](screens/order-complete)
-- [screen-notifications-preference](screens/notifications-preference)
 - [screen-appointment-list-view](screens/appointment-list)
 
 # Getting started: Frontend
