@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [react-native-app-menu](modules/app-menu)
 - [react-native-login](modules/login)
+- [screen-add-card-details](screens/add-card-details)
 
 # Getting started: Frontend
 
