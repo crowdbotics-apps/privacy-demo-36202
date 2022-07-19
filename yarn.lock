@@ -1240,9 +1240,6 @@
 "@screens/appointment-list@file:./screens/appointment-list":
   version "1.0.0"
 
-"@screens/payment-subscription@file:./screens/payment-subscription":
-  version "1.0.0"
-
 "@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
