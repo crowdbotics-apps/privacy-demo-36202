@@ -22,6 +22,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/add-card-details": "file:./screens/add-card-details/",
+    "@screens/appointment-list": "file:./screens/appointment-list/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-complete": "file:./screens/order-complete/",
