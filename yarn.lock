@@ -1240,9 +1240,6 @@
 "@screens/appointment-list@file:./screens/appointment-list":
   version "1.0.0"
 
-"@screens/order-complete@file:./screens/order-complete":
-  version "1.0.0"
-
 "@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
