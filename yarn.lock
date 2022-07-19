@@ -1240,9 +1240,6 @@
 "@screens/appointment-list@file:./screens/appointment-list":
   version "1.0.0"
 
-"@screens/order-summary@file:./screens/order-summary":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
