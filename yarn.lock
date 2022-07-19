@@ -1237,7 +1237,10 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/order-checkout@file:./screens/order-checkout/":
+"@screens/notifications-preference@file:./screens/notifications-preference/":
+  version "1.0.0"
+
+"@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
 "@screens/order-complete@file:./screens/order-complete":

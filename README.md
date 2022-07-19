@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-summary](screens/order-summary)
 - [screen-order-complete](screens/order-complete)
 - [screen-order-checkout](screens/order-checkout)
+- [screen-notifications-preference](screens/notifications-preference)
 
 # Getting started: Frontend
 
