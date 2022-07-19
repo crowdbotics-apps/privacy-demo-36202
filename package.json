@@ -22,6 +22,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/add-card-details": "file:./screens/add-card-details/",
+    "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",

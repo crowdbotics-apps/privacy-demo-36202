@@ -1237,7 +1237,10 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/order-summary@file:./screens/order-summary/":
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
