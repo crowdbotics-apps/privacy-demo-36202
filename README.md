@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-archive-content](screens/archive-content)
 - [screen-appointment-listing](screens/appointment-listing)
+- [screen-appointment-create](screens/create-appointment)
 
 # Getting started: Frontend
 
