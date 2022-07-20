@@ -23,6 +23,7 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
+    "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "axios": "^0.21.1",
     "react": "17.0.1",
