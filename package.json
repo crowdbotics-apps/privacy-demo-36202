@@ -23,6 +23,7 @@
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/image-editing": "file:./screens/image-editing/",
+    "@screens/image-editing-crop": "file:./screens/image-editing-crop/",
     "@screens/image-editing-edit": "file:./screens/image-editing-edit/",
     "@screens/image-filters": "file:./screens/image-filters/",
     "@screens/kanban": "file:./screens/kanban/",

@@ -1229,7 +1229,10 @@
 "@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
-"@screens/image-editing-edit@file:./screens/image-editing-edit/":
+"@screens/image-editing-crop@file:./screens/image-editing-crop/":
+  version "1.0.0"
+
+"@screens/image-editing-edit@file:./screens/image-editing-edit":
   version "1.0.0"
 
 "@screens/image-editing@file:./screens/image-editing":
