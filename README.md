@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-archive-content](screens/archive-content)
 - [screen-appointment-listing](screens/appointment-listing)
 - [screen-appointment-create](screens/create-appointment)
+- [screen-appointment-calendar](screens/appointment-calendar)
 
 # Getting started: Frontend
 
