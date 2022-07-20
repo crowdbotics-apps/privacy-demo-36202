@@ -28,7 +28,6 @@
     "@screens/memos-calendar": "file:./screens/memos-calendar/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
-    "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/photo-library": "file:./screens/photo-library/",
