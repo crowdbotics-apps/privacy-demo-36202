@@ -21,6 +21,7 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/kanban": "file:./screens/kanban/",
+    "@screens/notifications": "file:./screens/notifications/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/photo-library": "file:./screens/photo-library/",
