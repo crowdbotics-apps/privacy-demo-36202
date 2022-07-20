@@ -1214,7 +1214,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/blog-post@file:./screens/blog-post/":
+"@screens/blog-post@file:./screens/blog-post":
   version "1.0.0"
 
 "@screens/create-post-1@file:./screens/create-post-1":
@@ -1224,6 +1224,9 @@
   version "1.0.0"
 
 "@screens/kanban@file:./screens/kanban":
+  version "1.0.0"
+
+"@screens/map-live-tracking@file:./screens/map-live-tracking/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
