@@ -31,6 +31,7 @@
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
+    "@screens/photo-library": "file:./screens/photo-library/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
