@@ -1229,7 +1229,10 @@
 "@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
-"@screens/file-conversion@file:./screens/file-conversion/":
+"@screens/file-conversion@file:./screens/file-conversion":
+  version "1.0.0"
+
+"@screens/invite-friends@file:./screens/invite-friends/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

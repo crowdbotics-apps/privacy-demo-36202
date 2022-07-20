@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-chat-listing](screens/chat-listing)
 - [screen-captcha](screens/captcha)
 - [screen-file-conversion](screens/file-conversion)
+- [screen-invite-friends](screens/invite-friends)
 
 # Getting started: Frontend
 
