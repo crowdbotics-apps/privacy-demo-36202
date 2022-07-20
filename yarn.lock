@@ -1259,7 +1259,10 @@
 "@screens/book-appointment@file:./screens/book-appointment":
   version "1.0.0"
 
-"@screens/chat-listing@file:./screens/chat-listing/":
+"@screens/captcha@file:./screens/captcha/":
+  version "1.0.0"
+
+"@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":
