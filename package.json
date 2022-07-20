@@ -24,7 +24,6 @@
     "@screens/ledger-graph": "file:./screens/ledger-graph/",
     "@screens/ledger-listing": "file:./screens/ledger-listing/",
     "@screens/notifications": "file:./screens/notifications/",
-    "@screens/order-checkout": "file:./screens/order-checkout/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
