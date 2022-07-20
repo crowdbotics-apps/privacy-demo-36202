@@ -1259,7 +1259,10 @@
 "@screens/book-appointment@file:./screens/book-appointment":
   version "1.0.0"
 
-"@screens/direct-messages@file:./screens/direct-messages/":
+"@screens/create-post-1@file:./screens/create-post-1/":
+  version "1.0.0"
+
+"@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@screens/qr-code-scanner@file:./screens/qr-code-scanner":
