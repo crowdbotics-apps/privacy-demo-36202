@@ -17,7 +17,6 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
-    "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/book-appointment": "file:./screens/book-appointment/",

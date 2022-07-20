@@ -58,7 +58,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-advance-search](screens/advance-search)
-- [screen-add-payment-method](screens/add-payment-method)
 - [screen-archive-content](screens/archive-content)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-create-post-2](screens/create-post-1)
