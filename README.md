@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-messages-listing](screens/messages-listing)
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-create-post](screens/create-post)
+- [screen-order-summary](screens/order-summary)
 
 # Getting started: Frontend
 

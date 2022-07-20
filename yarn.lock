@@ -1217,7 +1217,7 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/create-post@file:./screens/create-post/":
+"@screens/create-post@file:./screens/create-post":
   version "1.0.0"
 
 "@screens/file-conversion@file:./screens/file-conversion":
@@ -1245,6 +1245,9 @@
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
