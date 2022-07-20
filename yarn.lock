@@ -1244,9 +1244,6 @@
 "@screens/messages-listing@file:./screens/messages-listing":
   version "1.0.0"
 
-"@screens/notifications-preference@file:./screens/notifications-preference":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
