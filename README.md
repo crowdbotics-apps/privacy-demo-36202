@@ -56,7 +56,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-app-menu](modules/app-menu)
-- [screen-archive-content](screens/archive-content)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-contact-us](screens/contact-us)
