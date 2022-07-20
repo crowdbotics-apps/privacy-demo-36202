@@ -1235,9 +1235,6 @@
 "@screens/ledger-listing@file:./screens/ledger-listing":
   version "1.0.0"
 
-"@screens/map-live-tracking@file:./screens/map-live-tracking":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 

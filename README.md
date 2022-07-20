@@ -62,7 +62,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-ledger-listing](screens/ledger-listing)
 - [screen-ledger-graph](screens/ledger-graph)
 - [screen-leadboard](screens/leaderboard-screen)
-- [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-create-post](screens/create-post)
 - [screen-photo-library](screens/photo-library)
 - [screen-payment-subscriptions](screens/payment-subscription)
