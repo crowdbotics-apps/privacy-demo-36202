@@ -56,7 +56,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-splash](modules/splash)
-- [react-native-onboarding](modules/onboarding)
 - [react-native-app-menu](modules/app-menu)
 - [screen-add-card-details](screens/add-card-details)
 - [screen-appointment-list-view](screens/appointment-list)
