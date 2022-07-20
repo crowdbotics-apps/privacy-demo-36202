@@ -1250,9 +1250,6 @@
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
-"@screens/order-complete@file:./screens/order-complete":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
