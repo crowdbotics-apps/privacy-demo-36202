@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-account-settings](screens/account-settings)
 - [screen-qr-code-scanner](screens/qr-code-scanner)
+- [screen-appointment-booking](screens/book-appointment)
 
 # Getting started: Frontend
 
