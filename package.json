@@ -30,6 +30,7 @@
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
+    "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/qr-code-scanner": "file:./screens/qr-code-scanner/",
