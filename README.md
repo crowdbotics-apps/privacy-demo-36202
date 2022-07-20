@@ -64,7 +64,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-leadboard](screens/leaderboard-screen)
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-memos-calendar](screens/memos-calendar)
-- [screen-messages-listing](screens/messages-listing)
 - [screen-create-post](screens/create-post)
 - [screen-photo-library](screens/photo-library)
 - [screen-payment-subscriptions](screens/payment-subscription)
