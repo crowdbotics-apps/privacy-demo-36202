@@ -59,7 +59,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-contact-us](screens/contact-us)
-- [screen-chat-listing](screens/chat-listing)
 - [screen-file-conversion](screens/file-conversion)
 - [screen-invite-friends](screens/invite-friends)
 - [screen-getting-started](screens/getting-started)
