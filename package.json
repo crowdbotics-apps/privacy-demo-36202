@@ -22,7 +22,6 @@
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
-    "@screens/ledger-graph": "file:./screens/ledger-graph/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/photo-library": "file:./screens/photo-library/",

@@ -1229,9 +1229,6 @@
 "@screens/leaderboard-screen@file:./screens/leaderboard-screen":
   version "1.0.0"
 
-"@screens/ledger-graph@file:./screens/ledger-graph":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
