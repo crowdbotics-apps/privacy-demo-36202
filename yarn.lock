@@ -1253,10 +1253,7 @@
 "@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
-"@screens/order-summary@file:./screens/order-summary":
-  version "1.0.0"
-
-"@screens/payment-split-screen@file:./screens/payment-split-screen/":
+"@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
 "@screens/payment-subscription@file:./screens/payment-subscription":
