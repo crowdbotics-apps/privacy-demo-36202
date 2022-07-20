@@ -1247,7 +1247,10 @@
 "@screens/appointment-list@file:./screens/appointment-list":
   version "1.0.0"
 
-"@screens/archive-content@file:./screens/archive-content/":
+"@screens/appointment-listing@file:./screens/appointment-listing/":
+  version "1.0.0"
+
+"@screens/archive-content@file:./screens/archive-content":
   version "1.0.0"
 
 "@screens/book-appointment@file:./screens/book-appointment":

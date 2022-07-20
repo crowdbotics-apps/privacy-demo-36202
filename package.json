@@ -26,6 +26,7 @@
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/appointment-list": "file:./screens/appointment-list/",
+    "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/qr-code-scanner": "file:./screens/qr-code-scanner/",
