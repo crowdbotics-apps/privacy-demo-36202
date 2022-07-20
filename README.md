@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-memos-calendar](screens/memos-calendar)
 - [screen-messages-listing](screens/messages-listing)
+- [screen-notifications-preference](screens/notifications-preference)
 
 # Getting started: Frontend
 

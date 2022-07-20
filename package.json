@@ -26,6 +26,7 @@
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "@screens/memos-calendar": "file:./screens/memos-calendar/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
+    "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
