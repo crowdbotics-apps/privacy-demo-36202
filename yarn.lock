@@ -1247,7 +1247,10 @@
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
   version "1.0.0"
 
-"@screens/photo-filter@file:./screens/photo-filter/":
+"@screens/onboarding@file:./screens/onboarding/":
+  version "1.0.0"
+
+"@screens/photo-filter@file:./screens/photo-filter":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
