@@ -1247,7 +1247,10 @@
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
   version "1.0.0"
 
-"@screens/onboarding@file:./screens/onboarding/":
+"@screens/menu@file:./screens/menu/":
+  version "1.0.0"
+
+"@screens/onboarding@file:./screens/onboarding":
   version "1.0.0"
 
 "@screens/photo-filter@file:./screens/photo-filter":

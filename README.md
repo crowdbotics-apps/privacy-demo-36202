@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-image-editing-crop](screens/image-editing-crop)
 - [screen-photo-filter](screens/photo-filter)
 - [screen-onboarding](screens/onboarding)
+- [screen-menu](screens/menu)
 
 # Getting started: Frontend
 

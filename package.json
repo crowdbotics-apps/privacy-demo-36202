@@ -28,6 +28,7 @@
     "@screens/image-filters": "file:./screens/image-filters/",
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
+    "@screens/menu": "file:./screens/menu/",
     "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/photo-filter": "file:./screens/photo-filter/",
     "axios": "^0.21.1",
