@@ -25,6 +25,7 @@
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
+    "@screens/kanban": "file:./screens/kanban/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",

@@ -1232,10 +1232,13 @@
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
-"@screens/getting-started@file:./screens/getting-started/":
+"@screens/getting-started@file:./screens/getting-started":
   version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
+  version "1.0.0"
+
+"@screens/kanban@file:./screens/kanban/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
