@@ -1232,7 +1232,10 @@
 "@screens/ledger-listing@file:./screens/ledger-listing":
   version "1.0.0"
 
-"@screens/map-live-tracking@file:./screens/map-live-tracking/":
+"@screens/map-live-tracking@file:./screens/map-live-tracking":
+  version "1.0.0"
+
+"@screens/memos-calendar@file:./screens/memos-calendar/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
