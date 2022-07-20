@@ -1217,9 +1217,6 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/direct-messages@file:./screens/direct-messages":
-  version "1.0.0"
-
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
