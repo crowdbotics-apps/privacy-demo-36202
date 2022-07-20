@@ -1229,7 +1229,7 @@
 "@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
-"@screens/image-editing-crop@file:./screens/image-editing-crop/":
+"@screens/image-editing-crop@file:./screens/image-editing-crop":
   version "1.0.0"
 
 "@screens/image-editing-edit@file:./screens/image-editing-edit":
@@ -1245,6 +1245,9 @@
   version "1.0.0"
 
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
+  version "1.0.0"
+
+"@screens/photo-filter@file:./screens/photo-filter/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
