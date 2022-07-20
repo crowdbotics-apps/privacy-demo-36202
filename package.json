@@ -24,7 +24,6 @@
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
-    "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
