@@ -31,6 +31,7 @@
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
+    "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "axios": "^0.21.1",
     "react": "17.0.1",

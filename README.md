@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-complete](screens/order-complete)
 - [screen-order-checkout](screens/order-checkout)
 - [screen-photo-library](screens/photo-library)
+- [screen-payment-subscriptions](screens/payment-subscription)
 
 # Getting started: Frontend
 
