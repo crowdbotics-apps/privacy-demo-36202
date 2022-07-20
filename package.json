@@ -18,6 +18,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/blog-post": "file:./screens/blog-post/",
+    "@screens/buyer-address-verification": "file:./screens/buyer-address-verification/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/file-converter": "file:./screens/file-converter/",

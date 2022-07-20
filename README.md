@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-blog-post](screens/blog-post)
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-file-conversion](screens/file-conversion)
+- [screen-buyer-address-verification](screens/buyer-address-verification)
 
 # Getting started: Frontend
 
