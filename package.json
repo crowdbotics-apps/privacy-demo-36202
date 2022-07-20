@@ -20,6 +20,7 @@
     "@screens/create-post": "file:./screens/create-post/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
+    "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",

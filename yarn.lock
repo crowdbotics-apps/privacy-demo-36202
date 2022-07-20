@@ -1223,10 +1223,13 @@
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
+"@screens/file-converter@file:./screens/file-converter/":
+  version "1.0.0"
+
 "@screens/kanban@file:./screens/kanban":
   version "1.0.0"
 
-"@screens/notifications@file:./screens/notifications/":
+"@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
