@@ -28,7 +28,6 @@
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
-    "@screens/qr-code-scanner": "file:./screens/qr-code-scanner/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
