@@ -57,7 +57,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-app-menu](modules/app-menu)
 - [screen-about-the-app](screens/about-the-app)
-- [screen-account-settings](screens/account-settings)
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-advance-search](screens/advance-search)
 - [screen-add-payment-method](screens/add-payment-method)
