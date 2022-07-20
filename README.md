@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-ledger-listing](screens/ledger-listing)
 - [screen-ledger-graph](screens/ledger-graph)
 - [screen-leadboard](screens/leaderboard-screen)
+- [screen-map-live-tracking](screens/map-live-tracking)
 
 # Getting started: Frontend
 
