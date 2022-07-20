@@ -1238,7 +1238,10 @@
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
 
-"@screens/kanban@file:./screens/kanban/":
+"@screens/kanban@file:./screens/kanban":
+  version "1.0.0"
+
+"@screens/ledger-listing@file:./screens/ledger-listing/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
