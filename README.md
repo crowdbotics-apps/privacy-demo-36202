@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-getting-started](screens/getting-started)
 - [screen-kanban](screens/kanban)
 - [screen-ledger-listing](screens/ledger-listing)
+- [screen-ledger-graph](screens/ledger-graph)
 
 # Getting started: Frontend
 
