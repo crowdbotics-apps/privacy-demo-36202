@@ -60,7 +60,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-file-conversion](screens/file-conversion)
 - [screen-kanban](screens/kanban)
 - [screen-create-post](screens/create-post)
-- [screen-payment-split](screens/payment-split-screen)
 - [screen-notifications-list](screens/notifications)
 - [screen-file-format-conversion](screens/file-converter)
 
