@@ -1238,7 +1238,10 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/advance-search@file:./screens/advance-search/":
+"@screens/add-payment-method@file:./screens/add-payment-method/":
+  version "1.0.0"
+
+"@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
 "@screens/appointment-list@file:./screens/appointment-list":

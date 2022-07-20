@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-qr-code-scanner](screens/qr-code-scanner)
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-advance-search](screens/advance-search)
+- [screen-add-payment-method](screens/add-payment-method)
 
 # Getting started: Frontend
 

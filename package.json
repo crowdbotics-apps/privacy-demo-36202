@@ -23,6 +23,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/add-card-details": "file:./screens/add-card-details/",
+    "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/appointment-list": "file:./screens/appointment-list/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
