@@ -1217,9 +1217,6 @@
 "@screens/archive-content@file:./screens/archive-content":
   version "1.0.0"
 
-"@screens/book-appointment@file:./screens/book-appointment":
-  version "1.0.0"
-
 "@screens/captcha@file:./screens/captcha":
   version "1.0.0"
 
