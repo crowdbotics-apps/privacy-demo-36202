@@ -1223,7 +1223,7 @@
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
-"@screens/file-converter@file:./screens/file-converter/":
+"@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
 "@screens/kanban@file:./screens/kanban":
@@ -1236,9 +1236,6 @@
   version "1.0.0"
 
 "@screens/payment-subscription@file:./screens/payment-subscription":
-  version "1.0.0"
-
-"@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
