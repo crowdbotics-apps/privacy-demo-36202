@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-advance-search](screens/advance-search)
 - [screen-add-payment-method](screens/add-payment-method)
+- [screen-archive-content](screens/archive-content)
 
 # Getting started: Frontend
 

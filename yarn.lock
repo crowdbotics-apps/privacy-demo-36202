@@ -1238,13 +1238,16 @@
 "@screens/add-card-details@file:./screens/add-card-details":
   version "1.0.0"
 
-"@screens/add-payment-method@file:./screens/add-payment-method/":
+"@screens/add-payment-method@file:./screens/add-payment-method":
   version "1.0.0"
 
 "@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
 "@screens/appointment-list@file:./screens/appointment-list":
+  version "1.0.0"
+
+"@screens/archive-content@file:./screens/archive-content/":
   version "1.0.0"
 
 "@screens/book-appointment@file:./screens/book-appointment":
