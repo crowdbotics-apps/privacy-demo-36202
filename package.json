@@ -22,7 +22,6 @@
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/kanban": "file:./screens/kanban/",
-    "@screens/notifications": "file:./screens/notifications/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
