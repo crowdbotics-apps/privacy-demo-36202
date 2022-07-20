@@ -1220,9 +1220,6 @@
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
-"@screens/invite-friends@file:./screens/invite-friends":
-  version "1.0.0"
-
 "@screens/kanban@file:./screens/kanban":
   version "1.0.0"
 

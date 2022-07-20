@@ -58,7 +58,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-app-menu](modules/app-menu)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-file-conversion](screens/file-conversion)
-- [screen-invite-friends](screens/invite-friends)
 - [screen-kanban](screens/kanban)
 - [screen-ledger-listing](screens/ledger-listing)
 - [screen-ledger-graph](screens/ledger-graph)

@@ -19,7 +19,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
-    "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
     "@screens/ledger-graph": "file:./screens/ledger-graph/",
