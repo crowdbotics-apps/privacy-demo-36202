@@ -63,7 +63,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-advance-search](screens/advance-search)
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-archive-content](screens/archive-content)
-- [screen-appointment-listing](screens/appointment-listing)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-contact-us](screens/contact-us)

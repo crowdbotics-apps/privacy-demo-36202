@@ -21,7 +21,6 @@
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/advance-search": "file:./screens/advance-search/",
-    "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/captcha": "file:./screens/captcha/",

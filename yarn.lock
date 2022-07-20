@@ -1226,9 +1226,6 @@
 "@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
-"@screens/appointment-listing@file:./screens/appointment-listing":
-  version "1.0.0"
-
 "@screens/archive-content@file:./screens/archive-content":
   version "1.0.0"
 
