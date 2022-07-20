@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-file-format-conversion](screens/file-converter)
 - [screen-blog-post](screens/blog-post)
 - [screen-map-live-tracking](screens/map-live-tracking)
+- [screen-file-conversion](screens/file-conversion)
 
 # Getting started: Frontend
 
