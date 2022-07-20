@@ -1244,7 +1244,7 @@
 "@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
-"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
 "@screens/appointment-list@file:./screens/appointment-list":
@@ -1257,6 +1257,9 @@
   version "1.0.0"
 
 "@screens/book-appointment@file:./screens/book-appointment":
+  version "1.0.0"
+
+"@screens/direct-messages@file:./screens/direct-messages/":
   version "1.0.0"
 
 "@screens/qr-code-scanner@file:./screens/qr-code-scanner":
