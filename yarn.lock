@@ -1229,7 +1229,10 @@
 "@screens/file-converter@file:./screens/file-converter":
   version "1.0.0"
 
-"@screens/image-editing@file:./screens/image-editing/":
+"@screens/image-editing-edit@file:./screens/image-editing-edit/":
+  version "1.0.0"
+
+"@screens/image-editing@file:./screens/image-editing":
   version "1.0.0"
 
 "@screens/image-filters@file:./screens/image-filters":

@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-buyer-address-verification](screens/buyer-address-verification)
 - [screen-image-editing-filters](screens/image-filters)
 - [screen-image-editing](screens/image-editing)
+- [screen-image-editing-edit](screens/image-editing-edit)
 
 # Getting started: Frontend
 
