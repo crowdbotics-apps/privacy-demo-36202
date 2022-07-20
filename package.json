@@ -26,6 +26,7 @@
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/kanban": "file:./screens/kanban/",
+    "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
     "@screens/ledger-graph": "file:./screens/ledger-graph/",
     "@screens/ledger-listing": "file:./screens/ledger-listing/",
     "axios": "^0.21.1",

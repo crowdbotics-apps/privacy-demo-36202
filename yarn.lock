@@ -1241,7 +1241,10 @@
 "@screens/kanban@file:./screens/kanban":
   version "1.0.0"
 
-"@screens/ledger-graph@file:./screens/ledger-graph/":
+"@screens/leaderboard-screen@file:./screens/leaderboard-screen/":
+  version "1.0.0"
+
+"@screens/ledger-graph@file:./screens/ledger-graph":
   version "1.0.0"
 
 "@screens/ledger-listing@file:./screens/ledger-listing":
