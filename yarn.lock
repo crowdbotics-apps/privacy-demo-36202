@@ -1214,9 +1214,6 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/captcha@file:./screens/captcha":
-  version "1.0.0"
-
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
@@ -1241,7 +1238,7 @@
 "@screens/kanban@file:./screens/kanban":
   version "1.0.0"
 
-"@screens/leaderboard-screen@file:./screens/leaderboard-screen/":
+"@screens/leaderboard-screen@file:./screens/leaderboard-screen":
   version "1.0.0"
 
 "@screens/ledger-graph@file:./screens/ledger-graph":
