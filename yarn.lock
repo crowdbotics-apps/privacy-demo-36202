@@ -1217,7 +1217,7 @@
 "@screens/blog-post@file:./screens/blog-post":
   version "1.0.0"
 
-"@screens/buyer-address-verification@file:./screens/buyer-address-verification/":
+"@screens/buyer-address-verification@file:./screens/buyer-address-verification":
   version "1.0.0"
 
 "@screens/create-post-1@file:./screens/create-post-1":
@@ -1227,6 +1227,9 @@
   version "1.0.0"
 
 "@screens/file-converter@file:./screens/file-converter":
+  version "1.0.0"
+
+"@screens/image-filters@file:./screens/image-filters/":
   version "1.0.0"
 
 "@screens/kanban@file:./screens/kanban":

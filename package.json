@@ -22,6 +22,7 @@
     "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
     "@screens/file-converter": "file:./screens/file-converter/",
+    "@screens/image-filters": "file:./screens/image-filters/",
     "@screens/kanban": "file:./screens/kanban/",
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
     "axios": "^0.21.1",

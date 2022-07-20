@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-map-live-tracking](screens/map-live-tracking)
 - [screen-file-conversion](screens/file-conversion)
 - [screen-buyer-address-verification](screens/buyer-address-verification)
+- [screen-image-editing-filters](screens/image-filters)
 
 # Getting started: Frontend
 
