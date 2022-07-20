@@ -25,7 +25,6 @@
     "@screens/ledger-graph": "file:./screens/ledger-graph/",
     "@screens/ledger-listing": "file:./screens/ledger-listing/",
     "@screens/map-live-tracking": "file:./screens/map-live-tracking/",
-    "@screens/memos-calendar": "file:./screens/memos-calendar/",
     "@screens/payment-split-screen": "file:./screens/payment-split-screen/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/photo-library": "file:./screens/photo-library/",

@@ -1238,9 +1238,6 @@
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
   version "1.0.0"
 
-"@screens/memos-calendar@file:./screens/memos-calendar":
-  version "1.0.0"
-
 "@screens/payment-split-screen@file:./screens/payment-split-screen":
   version "1.0.0"
 
