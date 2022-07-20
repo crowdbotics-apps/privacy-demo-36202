@@ -1256,7 +1256,10 @@
 "@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
-"@screens/payment-subscription@file:./screens/payment-subscription/":
+"@screens/payment-split-screen@file:./screens/payment-split-screen/":
+  version "1.0.0"
+
+"@screens/payment-subscription@file:./screens/payment-subscription":
   version "1.0.0"
 
 "@screens/photo-library@file:./screens/photo-library":
