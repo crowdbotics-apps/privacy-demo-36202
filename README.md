@@ -59,7 +59,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-create-post-2](screens/create-post-1)
 - [screen-file-conversion](screens/file-conversion)
 - [screen-invite-friends](screens/invite-friends)
-- [screen-getting-started](screens/getting-started)
 - [screen-kanban](screens/kanban)
 - [screen-ledger-listing](screens/ledger-listing)
 - [screen-ledger-graph](screens/ledger-graph)
