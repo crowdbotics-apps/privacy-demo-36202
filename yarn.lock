@@ -1247,7 +1247,10 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/order-complete@file:./screens/order-complete/":
+"@screens/order-checkout@file:./screens/order-checkout/":
+  version "1.0.0"
+
+"@screens/order-complete@file:./screens/order-complete":
   version "1.0.0"
 
 "@screens/order-summary@file:./screens/order-summary":
