@@ -19,7 +19,6 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/image-editing": "file:./screens/image-editing/",
-    "@screens/image-editing-edit": "file:./screens/image-editing-edit/",
     "@screens/image-filters": "file:./screens/image-filters/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/onboarding": "file:./screens/onboarding/",
