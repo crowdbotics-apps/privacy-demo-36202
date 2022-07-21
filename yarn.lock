@@ -1001,7 +1001,7 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1221,9 +1221,6 @@
   version "1.0.0"
 
 "@screens/buyer-address-verification@file:./screens/buyer-address-verification":
-  version "1.0.0"
-
-"@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
 "@screens/file-conversion@file:./screens/file-conversion":
