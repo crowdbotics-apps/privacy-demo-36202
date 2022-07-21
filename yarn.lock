@@ -1238,9 +1238,6 @@
 "@screens/image-filters@file:./screens/image-filters":
   version "1.0.0"
 
-"@screens/kanban@file:./screens/kanban":
-  version "1.0.0"
-
 "@screens/map-live-tracking@file:./screens/map-live-tracking":
   version "1.0.0"
 
