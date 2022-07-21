@@ -1217,9 +1217,6 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/buyer-address-verification@file:./screens/buyer-address-verification":
-  version "1.0.0"
-
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
