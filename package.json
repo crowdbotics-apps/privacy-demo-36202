@@ -21,7 +21,6 @@
     "@screens/blog-post": "file:./screens/blog-post/",
     "@screens/buyer-address-verification": "file:./screens/buyer-address-verification/",
     "@screens/file-conversion": "file:./screens/file-conversion/",
-    "@screens/file-converter": "file:./screens/file-converter/",
     "@screens/image-editing": "file:./screens/image-editing/",
     "@screens/image-editing-crop": "file:./screens/image-editing-crop/",
     "@screens/image-editing-edit": "file:./screens/image-editing-edit/",

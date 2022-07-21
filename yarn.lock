@@ -1226,9 +1226,6 @@
 "@screens/file-conversion@file:./screens/file-conversion":
   version "1.0.0"
 
-"@screens/file-converter@file:./screens/file-converter":
-  version "1.0.0"
-
 "@screens/image-editing-crop@file:./screens/image-editing-crop":
   version "1.0.0"
 
