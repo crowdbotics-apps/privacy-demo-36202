@@ -59,7 +59,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-image-editing-filters](screens/image-filters)
 - [screen-image-editing](screens/image-editing)
 - [screen-image-editing-edit](screens/image-editing-edit)
-- [screen-image-editing-crop](screens/image-editing-crop)
 - [screen-photo-filter](screens/photo-filter)
 - [screen-onboarding](screens/onboarding)
 - [screen-menu](screens/menu)

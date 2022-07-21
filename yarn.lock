@@ -1217,9 +1217,6 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/image-editing-crop@file:./screens/image-editing-crop":
-  version "1.0.0"
-
 "@screens/image-editing-edit@file:./screens/image-editing-edit":
   version "1.0.0"
 
